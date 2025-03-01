@@ -26,7 +26,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🔗 Connect with Us
 - Website: [https://urldn.com](https://urldn.com)
 - Blog: [https://urldn.com/blog](https://urldn.com/blog)
-- Twitter: [@urldn_official](#)
-- GitHub: [GitHub Organization](#)
+- Twitter: [@urldn_official](https://x.com/urldn_)
+- Linkedin: [Linkedin Organization](https://www.linkedin.com/company/urldn)
 
 Happy shortening! 🚀

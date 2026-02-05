@@ -1,32 +1,24 @@
-# URLDN - The Best URL Shortener 🚀
+# URLDN Documentation & Research
 
-Welcome to **URLDN**, the ultimate free URL shortener designed to provide a seamless and efficient way to shorten, track, and manage links. Our platform offers powerful tools for marketers, businesses, and everyday users looking to optimize their link-sharing experience.
+URLDN is a free URL shortener and link analytics platform.
+This repository contains public documentation, references, and links
+to original research published by the URLDN team.
 
-## 🌟 Features
-- **Shorten URLs**: Instantly generate short and clean links.
-- **Custom Aliases**: Personalize your short URLs for better branding.
-- **Link Tracking & Analytics**: Get insights on clicks, referrers, and geolocation.
-- **QR Code Generation**: Convert your short URLs into QR codes with ease.
-- **Dashboard for Users**: Manage your shortened URLs with a user-friendly interface.
-- **API Support**: Integrate URLDN into your applications for automated link shortening.
-- **Spam & Phishing Protection**: Secure your links from harmful content.
+## 📊 Data Studies & Research
+We analyze how short links are used across the web using large-scale crawl data.
 
-## 📌 Roadmap
-- 🔹 **Browser Extension** for quick URL shortening.
-- 🔹 **n8n Integration** for automation workflows.
-- 🔹 **Advanced Analytics** with more detailed insights.
-- 🔹 **SEO Enhancements** for better link discoverability.
-- 🔹 **Team & Collaboration Features** for businesses.
+- Where Short Links Appear Most Often on the Web (Data Study)  
+  https://urldn.com/blog/where-short-links-appear-most-often-on-the-web
 
+## 🧠 Learn More
+- Blog: https://urldn.com/blog
+- Homepage: https://urldn.com
 
+## 🔗 Platform
+- Create short URLs: https://urldn.com
+- URL analytics & tracking: https://urldn.com/tracking
 
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
-
-## 🔗 Connect with Us
-- Website: [https://urldn.com](https://urldn.com)
-- Blog: [https://urldn.com/blog](https://urldn.com/blog)
-- Twitter: [@urldn_official](https://x.com/urldn_)
-- Linkedin: [Linkedin Organization](https://www.linkedin.com/company/urldn)
-
-Happy shortening! 🚀
+## 📄 Legal & Trust
+- Privacy Policy: https://urldn.com/privacy
+- Terms of Service: https://urldn.com/terms
+- Contact: https://urldn.com/contact
